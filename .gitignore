@@ -1,2 +1,8 @@
 # Virtual Environment
 .venv/
+
+# Python Cache
+__pycache__/
+
+# CIFAR-10 dataset
+data/
